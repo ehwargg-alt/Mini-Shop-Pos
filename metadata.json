@@ -1,0 +1,7 @@
+{
+  "name": "Miin Shop Pos",
+  "description": "A Point of Sale application with a login and settings page.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
